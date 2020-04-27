@@ -1,0 +1,9 @@
+{
+	"num_classes": 11,
+	"input_size": 224,
+    "batch_sizes": 5,
+	"use_cuda": true,
+    "iterations": 100,
+    "log_dir": "./logs",
+    "log_file": "./logs/log.txt"
+}

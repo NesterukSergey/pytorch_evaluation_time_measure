@@ -1,0 +1,8 @@
+Start new model evaluation
+Model MobileNetv2 on cuda. 1 batch size: 0.00820317268371582s per image.
+Model MobileNetv2 on cuda. 2 batch size: 0.0049333727359771725s per image.
+Model MobileNetv2 on cuda. 4 batch size: 0.0033856546878814698s per image.
+Model MobileNetv2 on cuda. 8 batch size: 0.0026664859056472778s per image.
+Model MobileNetv2 on cuda. 16 batch size: 0.002286790758371353s per image.
+--  __  --  __  --  __  --  __  --  __  --  __  --  __  --  __  
+

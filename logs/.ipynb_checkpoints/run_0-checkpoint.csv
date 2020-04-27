@@ -1,0 +1,6 @@
+,device,model_name,platform,proc,cpus,batch_size,iterations,time
+0,cuda,MobileNetv2,Linux 5.0.13-1.el7.elrepo.x86_64,x86_64,4,1,100,0.00820317268371582
+1,cuda,MobileNetv2,Linux 5.0.13-1.el7.elrepo.x86_64,x86_64,4,2,100,0.0049333727359771725
+2,cuda,MobileNetv2,Linux 5.0.13-1.el7.elrepo.x86_64,x86_64,4,4,100,0.0033856546878814693
+3,cuda,MobileNetv2,Linux 5.0.13-1.el7.elrepo.x86_64,x86_64,4,8,100,0.0026664859056472773
+4,cuda,MobileNetv2,Linux 5.0.13-1.el7.elrepo.x86_64,x86_64,4,16,100,0.002286790758371353
